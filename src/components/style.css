@@ -14567,3 +14567,7 @@ body.open-quickview-block .biolife-quickview-block{
 {
     font-size: 24px;
 }
+.product-tab .react-tabs__tab--selected
+{
+    border-color: #aaa0;
+}

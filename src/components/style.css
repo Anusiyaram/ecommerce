@@ -14539,6 +14539,7 @@ body.open-quickview-block .biolife-quickview-block{
 .react-tabs__tab-list
 {
     text-align: right;
+    border-bottom: none;
 }
 .react-tabs__tab--selected
 {

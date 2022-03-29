@@ -1,5 +1,6 @@
 import * as React from "react"
 import PropTypes from "prop-types"
+import logo from "../images/logo.jpg"
 
 const Header = ({ siteTitle }) => (
   <header id="header" className="header-area style-01 layout-04">
@@ -10,7 +11,7 @@ const Header = ({ siteTitle }) => (
             <li>
               <a href="#">
                 <i className="fa fa-envelope" aria-hidden="true"></i>
-                Organic@company.com
+                jeevavenugopal10@gmail.com
               </a>
             </li>
           </ul>
@@ -47,27 +48,9 @@ const Header = ({ siteTitle }) => (
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-2 col-md-6 col-xs-6">
-            <a href="home-04-light.html" className="biolife-logo">
-              <span
-                style={{
-                  fontSize: "22px",
-                  color: "#c51d1d",
-                  fontWeight: "bold",
-                }}
-              >
-                <b
-                  style={{
-                    color: "rgb(239 0 0)",
-                    fontWeight: "bolder",
-                    fontSize: "30px",
-                    verticalAlign: "text-top",
-                  }}
-                >
-                  C
-                </b>
-                ompany Logo
-              </span>
-            </a>
+            <a href="#" className="biolife-logo">
+                <img src={logo} alt={logo} width="135" height="36" />
+             </a>
           </div>
           <div className="col-lg-6 col-md-7 hidden-sm hidden-xs">
             <div className="primary-menu">

@@ -8,6 +8,7 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import logo from "../images/logo.jpg"
 
 import Header from "./header"
 import Banner from "./banner"
@@ -64,25 +65,8 @@ const Layout = ({ children }) => {
                     <div className="col-lg-4 col-md-4 col-sm-9">
                         <section className="footer-item">
                             <a href="#" className="logo footer-logo">
-                            <span
-                style={{
-                  fontSize: "22px",
-                  color: "#c51d1d",
-                  fontWeight: "bold",
-                }}
-              >
-                <b
-                  style={{
-                    color: "rgb(239 0 0)",
-                    fontWeight: "bolder",
-                    fontSize: "30px",
-                    verticalAlign: "text-top",
-                  }}
-                >
-                  C
-                </b>
-                ompany Logo
-              </span></a>
+                                <img src={logo} alt={logo} width="135" height="36" />
+                            </a>
                             <div className="footer-phone-info">
                                 <i className="biolife-icon icon-head-phone"></i>
                                 <p className="r-info">
@@ -140,7 +124,7 @@ const Layout = ({ children }) => {
                                     <li>
                                         <p className="info-item">
                                             <i className="biolife-icon icon-location"></i>
-                                            <b className="desc">Vicent Place Newyork NH7689, UK </b>
+                                            <b className="desc">30, Main Rd, Kamarajapuram, Sembakkam, Chennai. </b>
                                         </p>
                                     </li>
                                     <li>
@@ -152,7 +136,7 @@ const Layout = ({ children }) => {
                                     <li>
                                         <p className="info-item">
                                             <i className="biolife-icon icon-letter"></i>
-                                            <b className="desc">Email:  contact@company.com</b>
+                                            <b className="desc">jeevavenugopal10@gmail.com</b>
                                         </p>
                                     </li>
                                     <li>

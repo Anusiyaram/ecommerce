@@ -1,0 +1,20 @@
+.advance-product-box .slick-prev {
+    right: 0px !important;
+    left: 91% !important;
+}
+.advance-product-box .slick-initialized .slick-arrow:not(.slick-disabled)
+{
+    top: -30px;
+}
+.advance-product-box .biolife-carousel.nav-top-right .slick-arrow
+{
+  color: rgb(102 102 102 / 0%);
+}
+.advance-product-box .biolife-carousel.nav-top-right.nav-main-color .slick-arrow:hover
+{
+  color: rgb(102 102 102 / 0%) !important;
+}
+.bn-link img
+{
+  margin-top: 25%;
+}

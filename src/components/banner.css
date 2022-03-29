@@ -1,0 +1,27 @@
+.carousel-caption
+{
+    right: 2%;
+    top: 20%;
+    left: 60%;
+}
+.caption-title
+{
+    font-size: 45px;
+    font-weight: 700;
+    color: #222222;
+    display: block;
+    margin: 1px 0 0;
+    line-height: 60px;
+}
+.caption-subtitle
+{
+    font-size: 18px;
+    color: #444444;
+    display: block;
+    margin: 14px 0 0;
+    line-height: 1;
+}
+.btn-bold
+{
+    margin-top: 5%;
+}

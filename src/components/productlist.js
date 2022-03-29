@@ -16,7 +16,7 @@ function Productlist()
                 <div className="row">
                     <div className="col-sm-6 col-md-4 col-xs-12">
                         <div className="advance-product-box">
-                            <div className="biolife-title-box bold-style biolife-title-box__bold-style mobile-tiny sm-margin-bottom-36px">
+                            <div className="ecom-title-box bold-style ecom-title-box__bold-style mobile-tiny sm-margin-bottom-36px">
                                 <h3 className="title">Top Rated Products</h3>
                             </div>
                             <ul className="products-list vertical-layout products-list__vertical-layout">
@@ -85,7 +85,7 @@ function Productlist()
                     </div>
                     <div className="col-sm-6 col-md-4 col-xs-12">
                         <div className="advance-product-box">
-                            <div className="biolife-title-box bold-style biolife-title-box__bold-style mobile-tiny">
+                            <div className="ecom-title-box bold-style ecom-title-box__bold-style mobile-tiny">
                                 <h3 className="title">Featured Products</h3>
                             </div>
                             <ul className="products-list vertical-layout products-list__vertical-layout">
@@ -154,7 +154,7 @@ function Productlist()
                     </div>
                     <div className="col-sm-6 col-md-4 col-xs-12 sm-margin-top-54px md-margin-top-0">
                         <div className="advance-product-box">
-                            <div className="biolife-title-box bold-style biolife-title-box__bold-style mobile-tiny">
+                            <div className="ecom-title-box bold-style ecom-title-box__bold-style mobile-tiny">
                                 <h3 className="title">Bestseller Products</h3>
                             </div>
                             <ul className="products-list vertical-layout products-list__vertical-layout">

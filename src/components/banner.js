@@ -12,7 +12,7 @@ function Banner() {
           
           <div className="row">
             <div className="col-lg-3 col-md-4 hidden-sm hidden-xs">
-              <div className="biolife-vertical-menu none-box-shadow  ">
+              <div className="ecom-vertical-menu none-box-shadow  ">
                 <div className="vertical-menu vertical-category-block always ">
                   <div className="block-title">
                     <span className="menu-icon">
@@ -36,7 +36,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Fruit & Nut Gifts"
                         >
-                          <i className="biolife-icon icon-fruits"></i>Fruit &
+                          <i className="ecom-icon icon-fruits"></i>Fruit &
                           Nut Gifts
                         </a>
                         <div className="wrap-megamenu lg-width-900 md-width-640">
@@ -86,7 +86,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Vegetables"
                         >
-                          <i className="biolife-icon icon-broccoli-1"></i>
+                          <i className="ecom-icon icon-broccoli-1"></i>
                           Vegetables
                         </a>
                         <div className="wrap-megamenu lg-width-900 md-width-640 background-mega-01">
@@ -136,7 +136,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Fresh Berries"
                         >
-                          <i className="biolife-icon icon-grape"></i>Fresh
+                          <i className="ecom-icon icon-grape"></i>Fresh
                           Berries
                         </a>
                         <div className="wrap-megamenu lg-width-900 md-width-640 background-mega-02">
@@ -186,7 +186,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Ocean Foods"
                         >
-                          <i className="biolife-icon icon-fish"></i>Ocean Foods
+                          <i className="ecom-icon icon-fish"></i>Ocean Foods
                         </a>
                       </li>
                       <li className="menu-item menu-item-has-children has-child">
@@ -195,7 +195,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Butter & Eggs"
                         >
-                          <i className="biolife-icon icon-honey"></i>Butter &
+                          <i className="ecom-icon icon-honey"></i>Butter &
                           Eggs
                         </a>
                         <ul className="sub-menu">
@@ -279,7 +279,7 @@ function Banner() {
                       </li>
                       <li className="menu-item">
                         <a href="#" className="menu-title">
-                          <i className="biolife-icon icon-fast-food"></i>
+                          <i className="ecom-icon icon-fast-food"></i>
                           Fastfood
                         </a>
                       </li>
@@ -289,7 +289,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Vegetables"
                         >
-                          <i className="biolife-icon icon-broccoli-1"></i>
+                          <i className="ecom-icon icon-broccoli-1"></i>
                           Vegetables
                         </a>
                         <div className="wrap-megamenu lg-width-900 md-width-640 background-mega-01">
@@ -339,7 +339,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Fresh Berries"
                         >
-                          <i className="biolife-icon icon-grape"></i>Fresh
+                          <i className="ecom-icon icon-grape"></i>Fresh
                           Berries
                         </a>
                         <div className="wrap-megamenu lg-width-900 md-width-640 background-mega-02">
@@ -389,7 +389,7 @@ function Banner() {
                           className="menu-name"
                           data-title="Ocean Foods"
                         >
-                          <i className="biolife-icon icon-fish"></i>Ocean Foods
+                          <i className="ecom-icon icon-fish"></i>Ocean Foods
                         </a>
                       </li>
                       

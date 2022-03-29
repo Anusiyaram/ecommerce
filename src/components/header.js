@@ -37,25 +37,25 @@ const Header = ({ siteTitle }) => (
           <ul className="horizontal-menu">
             <li>
               <a href="login.html" className="login-link">
-                <i className="biolife-icon icon-login"></i>Login/Register
+                <i className="ecom-icon icon-login"></i>Login/Register
               </a>
             </li>
           </ul>
         </div>
       </div>
     </div>
-    <div className="header-middle biolife-sticky-object ">
+    <div className="header-middle ecom-sticky-object ">
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-2 col-md-6 col-xs-6">
-            <a href="#" className="biolife-logo">
+            <a href="#" className="ecom-logo">
                 <img src={logo} alt={logo} width="135" height="36" />
              </a>
           </div>
           <div className="col-lg-6 col-md-7 hidden-sm hidden-xs">
             <div className="primary-menu">
               <ul
-                className="menu biolife-menu clone-main-menu clone-primary-menu"
+                className="menu ecom-menu clone-main-menu clone-primary-menu"
                 id="primary-menu"
                 data-menuname="main menu"
               >
@@ -351,10 +351,10 @@ const Header = ({ siteTitle }) => (
             </div>
           </div>
           <div className="col-lg-3 col-md-3 col-md-6 col-xs-6">
-            <div className="biolife-cart-info">
+            <div className="ecom-cart-info">
               <div className="mobile-search">
                 <a href="javascript:void(0)" className="open-searchbox">
-                  <i className="biolife-icon icon-search"></i>
+                  <i className="ecom-icon icon-search"></i>
                 </a>
                 <div className="mobile-search-content">
                   <form
@@ -364,7 +364,7 @@ const Header = ({ siteTitle }) => (
                     method="get"
                   >
                     <a href="#" className="btn-close">
-                      <span className="biolife-icon icon-close-menu"></span>
+                      <span className="ecom-icon icon-close-menu"></span>
                     </a>
                     <input
                       type="text"
@@ -396,7 +396,7 @@ const Header = ({ siteTitle }) => (
               <div className="wishlist-block hidden-sm hidden-xs">
                 <a href="#" className="link-to">
                   <span className="icon-qty-combine">
-                    <i className="icon-heart-bold biolife-icon"></i>
+                    <i className="icon-heart-bold ecom-icon"></i>
                     {/* <span className="qty">4</span> */}
                   </span>
                 </a>
@@ -405,7 +405,7 @@ const Header = ({ siteTitle }) => (
                 <div className="minicart-contain">
                   <a href="javascript:void(0)" className="link-to">
                     <span className="icon-qty-combine">
-                      <i className="icon-cart-mini biolife-icon"></i>
+                      <i className="icon-cart-mini ecom-icon"></i>
                       {/* <span className="qty">8</span> */}
                     </span>
                     <span className="title">My Cart -</span>

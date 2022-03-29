@@ -68,7 +68,7 @@ const Layout = ({ children }) => {
                                 <img src={logo} alt={logo} width="135" height="36" />
                             </a>
                             <div className="footer-phone-info">
-                                <i className="biolife-icon icon-head-phone"></i>
+                                <i className="ecom-icon icon-head-phone"></i>
                                 <p className="r-info">
                                     <span>Got Questions ?</span>
                                     <span>(700)&nbsp; 9001-1909  (900) 689 -66</span>
@@ -123,31 +123,31 @@ const Layout = ({ children }) => {
                                 <ul className="contact-lines">
                                     <li>
                                         <p className="info-item">
-                                            <i className="biolife-icon icon-location"></i>
+                                            <i className="ecom-icon icon-location"></i>
                                             <b className="desc">30, Main Rd, Kamarajapuram, Sembakkam, Chennai. </b>
                                         </p>
                                     </li>
                                     <li>
                                         <p className="info-item">
-                                            <i className="biolife-icon icon-phone"></i>
+                                            <i className="ecom-icon icon-phone"></i>
                                             <b className="desc">Phone: (+067) 234 789</b>
                                         </p>
                                     </li>
                                     <li>
                                         <p className="info-item">
-                                            <i className="biolife-icon icon-letter"></i>
+                                            <i className="ecom-icon icon-letter"></i>
                                             <b className="desc">jeevavenugopal10@gmail.com</b>
                                         </p>
                                     </li>
                                     <li>
                                         <p className="info-item">
-                                            <i className="biolife-icon icon-clock"></i>
+                                            <i className="ecom-icon icon-clock"></i>
                                             <b className="desc">Hours: 7 Days a week</b>
                                         </p>
                                     </li>
                                 </ul>
                             </div>
-                            <div className="biolife-social inline">
+                            <div className="ecom-social inline">
                                 <ul className="socials">
                                     <li><a href="#" title="twitter" className="socail-btn"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
                                     <li><a href="#" title="facebook" className="socail-btn"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>

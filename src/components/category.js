@@ -51,7 +51,7 @@ function Category() {
         <div className="row">
           
           <Tabs selectedIndex={tabIndex} onSelect={index => setTabIndex(index)}>
-          <div className="biolife-title-box slim-item">
+          <div className="ecom-title-box slim-item">
             <p style={{ float: "left", color: "#222", fontSize: "24px", fontWeight: "bold" }}>Our Products</p>
             <TabList>
               <Tab>Category 1</Tab>
@@ -60,7 +60,7 @@ function Category() {
           </div>
           
             <TabPanel>
-            <ul class="products-list biolife-carousel nav-center-02 nav-none-on-mobile eq-height-contain">             
+            <ul class="products-list ecom-carousel nav-center-02 nav-none-on-mobile eq-height-contain">             
                  <Slider {...settings}>
 
                   <div>
@@ -77,7 +77,7 @@ function Category() {
                             />
                           </a>
                           <a class="lookup btn_call_quickview" href="#">
-                            <i class="biolife-icon icon-search"></i>
+                            <i class="ecom-icon icon-search"></i>
                           </a>
                         </div>
                         <div class="info">
@@ -140,7 +140,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -203,7 +203,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -266,7 +266,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -329,7 +329,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -392,7 +392,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -445,7 +445,7 @@ function Category() {
               </Slider></ul>
             </TabPanel>
             <TabPanel>
-            <ul class="products-list biolife-carousel nav-center-02 nav-none-on-mobile eq-height-contain">             
+            <ul class="products-list ecom-carousel nav-center-02 nav-none-on-mobile eq-height-contain">             
                  <Slider {...settings}>
 
                   
@@ -463,7 +463,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -526,7 +526,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -589,7 +589,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -652,7 +652,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">
@@ -715,7 +715,7 @@ function Category() {
                           />
                         </a>
                         <a class="lookup btn_call_quickview" href="#">
-                          <i class="biolife-icon icon-search"></i>
+                          <i class="ecom-icon icon-search"></i>
                         </a>
                       </div>
                       <div class="info">

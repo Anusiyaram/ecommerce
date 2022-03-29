@@ -51,7 +51,7 @@ function Products() {
         <div className="col-lg-4 sm-margin-top-60px ">
           <div className="row">
             <div className="col-lg-12 col-md-4 col-sm-6 col-xs-12">
-              <div className="biolife-banner style-05 biolife-banner__style-05">
+              <div className="ecom-banner style-05 ecom-banner__style-05">
                 <div className="banner-contain">
                   <div className="media">
                     <a href="#" className="bn-link">
@@ -76,7 +76,7 @@ function Products() {
               </div>
             </div>
             <div className="col-lg-12 col-md-4 col-sm-6 col-xs-12 xs-margin-top-30px sm-margin-top-0 lg-margin-top-30px">
-              <div className="biolife-banner style-06 biolife-banner__style-06">
+              <div className="ecom-banner style-06 ecom-banner__style-06">
                 <div className="banner-contain">
                   <div className="media">
                     <a href="#" className="bn-link">
@@ -101,7 +101,7 @@ function Products() {
               </div>
             </div>
             <div className="col-lg-12 col-md-4 col-sm-12 col-xs-12 xs-margin-top-30px md-margin-top-0 lg-margin-top-30px">
-              <div className="biolife-banner style-07 biolife-banner__style-07">
+              <div className="ecom-banner style-07 ecom-banner__style-07">
                 <div className="banner-contain">
                   <div className="media">
                     <a href="#" className="bn-link">
@@ -129,10 +129,10 @@ function Products() {
         </div>
         <div className="col-lg-8 sm-margin-top-64px">
           <div className="advance-product-box">
-            <div className="biolife-title-box bold-style biolife-title-box__bold-style xs-margin-top-80px-im sm-margin-top-0-im lg-margin-bottom-26px-im">
+            <div className="ecom-title-box bold-style ecom-title-box__bold-style xs-margin-top-80px-im sm-margin-top-0-im lg-margin-bottom-26px-im">
               <h3 className="title">Bestselling Products</h3>
             </div>
-            <ul className="products-list biolife-carousel nav-top-right nav-main-color nav-none-on-mobile eq-height-contain">
+            <ul className="products-list ecom-carousel nav-top-right nav-main-color nav-none-on-mobile eq-height-contain">
               <Slider {...settings}>
                 <li className="product-item">
                   <div className="contain-product layout-default">
@@ -147,7 +147,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -207,7 +207,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -267,7 +267,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -327,7 +327,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -387,7 +387,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -447,7 +447,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -507,7 +507,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -567,7 +567,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -627,7 +627,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
@@ -687,7 +687,7 @@ function Products() {
                         />
                       </a>
                       <a className="lookup btn_call_quickview" href="#">
-                        <i className="biolife-icon icon-search"></i>
+                        <i className="ecom-icon icon-search"></i>
                       </a>
                     </div>
                     <div className="info">
